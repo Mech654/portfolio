@@ -73,4 +73,4 @@ All languages and tools are not necessarily of ones that exist in these projects
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
