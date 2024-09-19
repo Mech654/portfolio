@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>chess.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\ChessP\Team Black\bishop_black.png" />
+    <None Remove="Assets\ChessP\Team Black\king_black.png" />
+    <None Remove="Assets\ChessP\Team Black\knight_black.png" />
+    <None Remove="Assets\ChessP\Team Black\pawn_black.png" />
+    <None Remove="Assets\ChessP\Team Black\queen_black.png" />
+    <None Remove="Assets\ChessP\Team Black\rook_black.png" />
+    <None Remove="Assets\ChessP\Team White\bishop_white.png" />
+    <None Remove="Assets\ChessP\Team White\king_white.png" />
+    <None Remove="Assets\ChessP\Team White\knight_white.png" />
+    <None Remove="Assets\ChessP\Team White\pawn_white.png" />
+    <None Remove="Assets\ChessP\Team White\queen_white.png" />
+    <None Remove="Assets\ChessP\Team White\rook_white.png" />
+    <None Remove="image.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="chess.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\ChessP\Team Black\bishop_black.png" />
+    <Resource Include="Assets\ChessP\Team Black\king_black.png" />
+    <Resource Include="Assets\ChessP\Team Black\knight_black.png" />
+    <Resource Include="Assets\ChessP\Team Black\pawn_black.png" />
+    <Resource Include="Assets\ChessP\Team Black\queen_black.png" />
+    <Resource Include="Assets\ChessP\Team Black\rook_black.png" />
+    <Resource Include="Assets\ChessP\Team White\bishop_white.png" />
+    <Resource Include="Assets\ChessP\Team White\king_white.png" />
+    <Resource Include="Assets\ChessP\Team White\knight_white.png" />
+    <Resource Include="Assets\ChessP\Team White\pawn_white.png" />
+    <Resource Include="Assets\ChessP\Team White\queen_white.png" />
+    <Resource Include="Assets\ChessP\Team White\rook_white.png" />
+    <Resource Include="image.ico" />
+  </ItemGroup>
+
+</Project>
