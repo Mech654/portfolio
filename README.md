@@ -14,7 +14,9 @@
 ### IT Student  
 I am a Data Technician student with specialization in programming, having a strong focus on backend development, primarily working with C# and Python. My passion lies in building efficient and robust systems, and I enjoy tackling challenges to problem-solve related to databases, APIs, and server-side architecture. While backend development is my primary focus,
 
-I also engage in frontend development for websites I work in backend on, but also in game development as a hobby, creating projects in Unity where I explore 2D and 3D mechanics. Combining my technical skills with creative projects helps me continuously improve and expand my knowledge in object-oriented programming, software development, and game design.  
+I also engage in frontend development for websites I work in backend on, but also in game development as a hobby, creating projects in Unity where I explore 2D and 3D mechanics. Combining my technical skills with creative projects helps me continuously improve and expand my knowledge in object-oriented programming, software development, and game design.
+
+All languages and tools are not necessarily of ones that exist in these projects in this portfolio repository, but they are of ones that I am ale to work with have have more or less experience with. i am als veri gut englisch
   
 
 <br/>  
