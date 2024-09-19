@@ -16,7 +16,7 @@ I am a Data Technician student with specialization in programming, having a stro
 
 I also engage in frontend development for websites I work in backend on, but also in game development as a hobby, creating projects in Unity where I explore 2D and 3D mechanics. Combining my technical skills with creative projects helps me continuously improve and expand my knowledge in object-oriented programming, software development, and game design.
 
-All languages and tools are not necessarily of ones that exist in these projects in this portfolio repository, but they are of ones that I am ale to work with have have more or less experience with. i am als veri gut englisch
+All languages and tools are not necessarily of ones that exist in these projects in this portfolio repository, but they are of ones that I am able to work with have have more or less experience with.
   
 
 <br/>  
