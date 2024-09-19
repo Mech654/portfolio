@@ -24,7 +24,7 @@ class API
 
     public async Task GetWeatherData()
     {
-        string apiKey = "5079b0c4778b5c82ed7ae0f1bbe7035b";
+        string apiKey = "Dont peek here";
         string url = $"https://api.openweathermap.org/data/2.5/weather?q={City}&appid={apiKey}&units=metric";
 
         try
