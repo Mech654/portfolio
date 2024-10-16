@@ -1,3 +1,7 @@
 [submodule "chessGame"]
-	path = chessGame
-	url = https://github.com/Mech654/chessGame.git
+    path = chessGame
+    url = https://github.com/Mech654/chessGame.git
+
+[submodule "weatherApp"]
+    path = weatherApp
+    url = https://github.com/Mech654/weatherApp.git
