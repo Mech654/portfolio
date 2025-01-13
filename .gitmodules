@@ -8,3 +8,6 @@
 [submodule "Fullstack_Website"]
 	path = Fullstack_Website
 	url = https://github.com/Mech654/Fullstack_Website
+[submodule "GhostChat"]
+	path = GhostChat
+	url = https://github.com/Mech654/GhostChat.git
