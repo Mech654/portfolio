@@ -42,6 +42,10 @@ All languages and tools are not necessarily of ones that exist in these projects
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+  <a href="https://nodejs.org/" target="_blank">
+  <img style="margin: 10px" src="https://nodejs.org/static/images/logo.svg" alt="Node.js" height="50" />
+</a>
+
 </div>  
 
 <br/>  
